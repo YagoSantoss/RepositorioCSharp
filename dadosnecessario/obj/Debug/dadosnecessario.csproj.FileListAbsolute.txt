@@ -1,0 +1,11 @@
+C:\Users\yago.psantos2\source\repos\dadosnecessario\bin\Debug\dadosnecessario.exe.config
+C:\Users\yago.psantos2\source\repos\dadosnecessario\bin\Debug\dadosnecessario.exe
+C:\Users\yago.psantos2\source\repos\dadosnecessario\bin\Debug\dadosnecessario.pdb
+C:\Users\yago.psantos2\source\repos\dadosnecessario\obj\Debug\dadosnecessario.csproj.AssemblyReference.cache
+C:\Users\yago.psantos2\source\repos\dadosnecessario\obj\Debug\dadosnecessario.frmFormularioSimples.resources
+C:\Users\yago.psantos2\source\repos\dadosnecessario\obj\Debug\dadosnecessario.Properties.Resources.resources
+C:\Users\yago.psantos2\source\repos\dadosnecessario\obj\Debug\dadosnecessario.csproj.GenerateResource.cache
+C:\Users\yago.psantos2\source\repos\dadosnecessario\obj\Debug\dadosnecessario.csproj.CoreCompileInputs.cache
+C:\Users\yago.psantos2\source\repos\dadosnecessario\obj\Debug\dadosnecessario.exe
+C:\Users\yago.psantos2\source\repos\dadosnecessario\obj\Debug\dadosnecessario.pdb
+C:\Users\yago.psantos2\source\repos\dadosnecessario\obj\Debug\dadosnecessario.exe.config

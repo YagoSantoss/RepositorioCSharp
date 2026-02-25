@@ -1,0 +1,11 @@
+C:\Users\yago.psantos2\source\repos\calcularidade\bin\Debug\calcularidade.exe.config
+C:\Users\yago.psantos2\source\repos\calcularidade\bin\Debug\calcularidade.exe
+C:\Users\yago.psantos2\source\repos\calcularidade\bin\Debug\calcularidade.pdb
+C:\Users\yago.psantos2\source\repos\calcularidade\obj\Debug\calcularidade.csproj.AssemblyReference.cache
+C:\Users\yago.psantos2\source\repos\calcularidade\obj\Debug\calcularidade.frmCalcularIdade.resources
+C:\Users\yago.psantos2\source\repos\calcularidade\obj\Debug\calcularidade.Properties.Resources.resources
+C:\Users\yago.psantos2\source\repos\calcularidade\obj\Debug\calcularidade.csproj.GenerateResource.cache
+C:\Users\yago.psantos2\source\repos\calcularidade\obj\Debug\calcularidade.csproj.CoreCompileInputs.cache
+C:\Users\yago.psantos2\source\repos\calcularidade\obj\Debug\calcularidade.exe
+C:\Users\yago.psantos2\source\repos\calcularidade\obj\Debug\calcularidade.pdb
+C:\Users\yago.psantos2\source\repos\calcularidade\obj\Debug\calcularidade.exe.config

@@ -1,0 +1,11 @@
+C:\Users\yago.psantos2\source\repos\caulculadorasimples\bin\Debug\caulculadorasimples.exe.config
+C:\Users\yago.psantos2\source\repos\caulculadorasimples\bin\Debug\caulculadorasimples.exe
+C:\Users\yago.psantos2\source\repos\caulculadorasimples\bin\Debug\caulculadorasimples.pdb
+C:\Users\yago.psantos2\source\repos\caulculadorasimples\obj\Debug\caulculadorasimples.csproj.AssemblyReference.cache
+C:\Users\yago.psantos2\source\repos\caulculadorasimples\obj\Debug\caulculadorasimples.frmCalculadoraSimples.resources
+C:\Users\yago.psantos2\source\repos\caulculadorasimples\obj\Debug\caulculadorasimples.Properties.Resources.resources
+C:\Users\yago.psantos2\source\repos\caulculadorasimples\obj\Debug\caulculadorasimples.csproj.GenerateResource.cache
+C:\Users\yago.psantos2\source\repos\caulculadorasimples\obj\Debug\caulculadorasimples.csproj.CoreCompileInputs.cache
+C:\Users\yago.psantos2\source\repos\caulculadorasimples\obj\Debug\caulculadorasimples.exe
+C:\Users\yago.psantos2\source\repos\caulculadorasimples\obj\Debug\caulculadorasimples.pdb
+C:\Users\yago.psantos2\source\repos\caulculadorasimples\obj\Debug\caulculadorasimples.exe.config
