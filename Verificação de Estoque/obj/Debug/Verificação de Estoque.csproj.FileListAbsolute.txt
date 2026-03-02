@@ -1,0 +1,11 @@
+C:\Users\yago.psantos2\Desktop\Aulas C#\Verificação de Estoque\bin\Debug\Verificação de Estoque.exe.config
+C:\Users\yago.psantos2\Desktop\Aulas C#\Verificação de Estoque\bin\Debug\Verificação de Estoque.exe
+C:\Users\yago.psantos2\Desktop\Aulas C#\Verificação de Estoque\bin\Debug\Verificação de Estoque.pdb
+C:\Users\yago.psantos2\Desktop\Aulas C#\Verificação de Estoque\obj\Debug\Verificação de Estoque.csproj.AssemblyReference.cache
+C:\Users\yago.psantos2\Desktop\Aulas C#\Verificação de Estoque\obj\Debug\Verificação_de_Estoque.Form1.resources
+C:\Users\yago.psantos2\Desktop\Aulas C#\Verificação de Estoque\obj\Debug\Verificação_de_Estoque.Properties.Resources.resources
+C:\Users\yago.psantos2\Desktop\Aulas C#\Verificação de Estoque\obj\Debug\Verificação de Estoque.csproj.GenerateResource.cache
+C:\Users\yago.psantos2\Desktop\Aulas C#\Verificação de Estoque\obj\Debug\Verificação de Estoque.csproj.CoreCompileInputs.cache
+C:\Users\yago.psantos2\Desktop\Aulas C#\Verificação de Estoque\obj\Debug\Verificação de Estoque.exe
+C:\Users\yago.psantos2\Desktop\Aulas C#\Verificação de Estoque\obj\Debug\Verificação de Estoque.pdb
+C:\Users\yago.psantos2\Desktop\Aulas C#\Verificação de Estoque\obj\Debug\Verificação de Estoque.exe.config

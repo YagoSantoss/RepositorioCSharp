@@ -1,0 +1,11 @@
+C:\Users\yago.psantos2\Desktop\Aulas C#\Dia da Semana\bin\Debug\Dia da Semana.exe.config
+C:\Users\yago.psantos2\Desktop\Aulas C#\Dia da Semana\bin\Debug\Dia da Semana.exe
+C:\Users\yago.psantos2\Desktop\Aulas C#\Dia da Semana\bin\Debug\Dia da Semana.pdb
+C:\Users\yago.psantos2\Desktop\Aulas C#\Dia da Semana\obj\Debug\Dia da Semana.csproj.AssemblyReference.cache
+C:\Users\yago.psantos2\Desktop\Aulas C#\Dia da Semana\obj\Debug\Dia_da_Semana.Form1.resources
+C:\Users\yago.psantos2\Desktop\Aulas C#\Dia da Semana\obj\Debug\Dia_da_Semana.Properties.Resources.resources
+C:\Users\yago.psantos2\Desktop\Aulas C#\Dia da Semana\obj\Debug\Dia da Semana.csproj.GenerateResource.cache
+C:\Users\yago.psantos2\Desktop\Aulas C#\Dia da Semana\obj\Debug\Dia da Semana.csproj.CoreCompileInputs.cache
+C:\Users\yago.psantos2\Desktop\Aulas C#\Dia da Semana\obj\Debug\Dia da Semana.exe
+C:\Users\yago.psantos2\Desktop\Aulas C#\Dia da Semana\obj\Debug\Dia da Semana.pdb
+C:\Users\yago.psantos2\Desktop\Aulas C#\Dia da Semana\obj\Debug\Dia da Semana.exe.config
