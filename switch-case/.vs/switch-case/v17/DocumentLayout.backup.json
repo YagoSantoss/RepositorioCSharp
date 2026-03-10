@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yago.psantos2\\source\\repos\\switch-case\\",
+  "WorkspaceRootPath": "C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\switch-case\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A514C605-6102-4426-A810-44471CEB2C41}|switch-case.csproj|c:\\users\\yago.psantos2\\source\\repos\\switch-case\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A514C605-6102-4426-A810-44471CEB2C41}|switch-case.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\switch-case\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A514C605-6102-4426-A810-44471CEB2C41}|switch-case.csproj|c:\\users\\yago.psantos2\\source\\repos\\switch-case\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A514C605-6102-4426-A810-44471CEB2C41}|switch-case.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\switch-case\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\yago.psantos2\\source\\repos\\switch-case\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\switch-case\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\yago.psantos2\\source\\repos\\switch-case\\Form1.cs",
+              "ToolTip": "C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\switch-case\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwB4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvy4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T17:53:24.631Z",
               "EditorCaption": ""
@@ -37,13 +37,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\yago.psantos2\\source\\repos\\switch-case\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\switch-case\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\yago.psantos2\\source\\repos\\switch-case\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\switch-case\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T17:26:19.697Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-25T17:26:19.697Z"
             }
           ]
         }

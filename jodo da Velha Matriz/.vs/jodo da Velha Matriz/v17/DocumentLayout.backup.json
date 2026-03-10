@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yago.psantos2\\Desktop\\Feitos\\jodo da Velha Matriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8434AD7D-E9C3-4BEB-9FF5-2615A992A557}|jodo da Velha Matriz\\jodo da Velha Matriz.csproj|C:\\Users\\yago.psantos2\\Desktop\\Feitos\\jodo da Velha Matriz\\jodo da Velha Matriz\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8434AD7D-E9C3-4BEB-9FF5-2615A992A557}|jodo da Velha Matriz\\jodo da Velha Matriz.csproj|solutionrelative:jodo da Velha Matriz\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8434AD7D-E9C3-4BEB-9FF5-2615A992A557}|jodo da Velha Matriz\\jodo da Velha Matriz.csproj|C:\\Users\\yago.psantos2\\Desktop\\Feitos\\jodo da Velha Matriz\\jodo da Velha Matriz\\Properties\\Resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8434AD7D-E9C3-4BEB-9FF5-2615A992A557}|jodo da Velha Matriz\\jodo da Velha Matriz.csproj|solutionrelative:jodo da Velha Matriz\\Properties\\Resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8434AD7D-E9C3-4BEB-9FF5-2615A992A557}|jodo da Velha Matriz\\jodo da Velha Matriz.csproj|C:\\Users\\yago.psantos2\\Desktop\\Feitos\\jodo da Velha Matriz\\jodo da Velha Matriz\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8434AD7D-E9C3-4BEB-9FF5-2615A992A557}|jodo da Velha Matriz\\jodo da Velha Matriz.csproj|solutionrelative:jodo da Velha Matriz\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8434AD7D-E9C3-4BEB-9FF5-2615A992A557}|jodo da Velha Matriz\\jodo da Velha Matriz.csproj|c:\\users\\yago.psantos2\\desktop\\feitos\\jodo da velha matriz\\jodo da velha matriz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8434AD7D-E9C3-4BEB-9FF5-2615A992A557}|jodo da Velha Matriz\\jodo da Velha Matriz.csproj|solutionrelative:jodo da velha matriz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yago.psantos2\\Desktop\\Feitos\\jodo da Velha Matriz\\jodo da Velha Matriz\\Form1.cs",
+              "RelativeDocumentMoniker": "jodo da Velha Matriz\\Form1.cs",
+              "ToolTip": "C:\\Users\\yago.psantos2\\Desktop\\Feitos\\jodo da Velha Matriz\\jodo da Velha Matriz\\Form1.cs",
+              "RelativeToolTip": "jodo da Velha Matriz\\Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T18:01:59.766Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\yago.psantos2\\Desktop\\Feitos\\jodo da Velha Matriz\\jodo da Velha Matriz\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "jodo da Velha Matriz\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\yago.psantos2\\Desktop\\Feitos\\jodo da Velha Matriz\\jodo da Velha Matriz\\Properties\\Resources.resx",
+              "RelativeToolTip": "jodo da Velha Matriz\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-05T19:43:05.327Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yago.psantos2\\Desktop\\Feitos\\jodo da Velha Matriz\\jodo da Velha Matriz\\Form1.cs",
+              "RelativeDocumentMoniker": "jodo da Velha Matriz\\Form1.cs",
+              "ToolTip": "C:\\Users\\yago.psantos2\\Desktop\\Feitos\\jodo da Velha Matriz\\jodo da Velha Matriz\\Form1.cs [Design]",
+              "RelativeToolTip": "jodo da Velha Matriz\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:51:10.791Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yago.psantos2\\Desktop\\Feitos\\jodo da Velha Matriz\\jodo da Velha Matriz\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "jodo da Velha Matriz\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\yago.psantos2\\Desktop\\Feitos\\jodo da Velha Matriz\\jodo da Velha Matriz\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "jodo da Velha Matriz\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAjwCwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:43:09.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

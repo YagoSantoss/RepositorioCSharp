@@ -1,0 +1,22 @@
+C:\Users\yago.psantos2\source\repos\jodo da Velha Matriz\jodo da Velha Matriz\bin\Debug\jodo da Velha Matriz.exe.config
+C:\Users\yago.psantos2\source\repos\jodo da Velha Matriz\jodo da Velha Matriz\bin\Debug\jodo da Velha Matriz.exe
+C:\Users\yago.psantos2\source\repos\jodo da Velha Matriz\jodo da Velha Matriz\bin\Debug\jodo da Velha Matriz.pdb
+C:\Users\yago.psantos2\source\repos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo da Velha Matriz.csproj.AssemblyReference.cache
+C:\Users\yago.psantos2\source\repos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo_da_Velha_Matriz.Form1.resources
+C:\Users\yago.psantos2\source\repos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo_da_Velha_Matriz.Properties.Resources.resources
+C:\Users\yago.psantos2\source\repos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo da Velha Matriz.csproj.GenerateResource.cache
+C:\Users\yago.psantos2\source\repos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo da Velha Matriz.csproj.CoreCompileInputs.cache
+C:\Users\yago.psantos2\source\repos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo da Velha Matriz.exe
+C:\Users\yago.psantos2\source\repos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo da Velha Matriz.pdb
+C:\Users\yago.psantos2\source\repos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo da Velha Matriz.exe.config
+C:\Users\yago.psantos2\Desktop\Feitos\jodo da Velha Matriz\jodo da Velha Matriz\bin\Debug\jodo da Velha Matriz.exe.config
+C:\Users\yago.psantos2\Desktop\Feitos\jodo da Velha Matriz\jodo da Velha Matriz\bin\Debug\jodo da Velha Matriz.exe
+C:\Users\yago.psantos2\Desktop\Feitos\jodo da Velha Matriz\jodo da Velha Matriz\bin\Debug\jodo da Velha Matriz.pdb
+C:\Users\yago.psantos2\Desktop\Feitos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo da Velha Matriz.csproj.AssemblyReference.cache
+C:\Users\yago.psantos2\Desktop\Feitos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo da Velha Matriz.exe.config
+C:\Users\yago.psantos2\Desktop\Feitos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo_da_Velha_Matriz.Form1.resources
+C:\Users\yago.psantos2\Desktop\Feitos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo_da_Velha_Matriz.Properties.Resources.resources
+C:\Users\yago.psantos2\Desktop\Feitos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo da Velha Matriz.csproj.GenerateResource.cache
+C:\Users\yago.psantos2\Desktop\Feitos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo da Velha Matriz.csproj.CoreCompileInputs.cache
+C:\Users\yago.psantos2\Desktop\Feitos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo da Velha Matriz.exe
+C:\Users\yago.psantos2\Desktop\Feitos\jodo da Velha Matriz\jodo da Velha Matriz\obj\Debug\jodo da Velha Matriz.pdb

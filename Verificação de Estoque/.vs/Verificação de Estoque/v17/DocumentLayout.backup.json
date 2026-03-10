@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\Verifica\u00E7\u00E3o de Estoque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93357ADC-77C1-46AA-B358-9694EF16849B}|Verifica\u00E7\u00E3o de Estoque.csproj|c:\\users\\yago.psantos2\\desktop\\aulas c#\\verifica\u00E7\u00E3o de estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93357ADC-77C1-46AA-B358-9694EF16849B}|Verifica\u00E7\u00E3o de Estoque.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93357ADC-77C1-46AA-B358-9694EF16849B}|Verifica\u00E7\u00E3o de Estoque.csproj|C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\Verifica\u00E7\u00E3o de Estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93357ADC-77C1-46AA-B358-9694EF16849B}|Verifica\u00E7\u00E3o de Estoque.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93357ADC-77C1-46AA-B358-9694EF16849B}|Verifica\u00E7\u00E3o de Estoque.csproj|c:\\users\\yago.psantos2\\desktop\\aulas c#\\verifica\u00E7\u00E3o de estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{93357ADC-77C1-46AA-B358-9694EF16849B}|Verifica\u00E7\u00E3o de Estoque.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{93357ADC-77C1-46AA-B358-9694EF16849B}|Verifica\u00E7\u00E3o de Estoque.csproj|c:\\users\\yago.psantos2\\desktop\\aulas c#\\verifica\u00E7\u00E3o de estoque\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93357ADC-77C1-46AA-B358-9694EF16849B}|Verifica\u00E7\u00E3o de Estoque.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\Verifica\u00E7\u00E3o de Estoque\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\Verifica\u00E7\u00E3o de Estoque\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAA6wCMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\Verifica\u00E7\u00E3o de Estoque\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T19:33:25.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\Verifica\u00E7\u00E3o de Estoque\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\Verifica\u00E7\u00E3o de Estoque\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\yago.psantos2\\Desktop\\Aulas C#\\Verifica\u00E7\u00E3o de Estoque\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T19:25:11.467Z",
               "EditorCaption": " [Design]"
